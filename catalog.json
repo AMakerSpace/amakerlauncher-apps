@@ -257,7 +257,7 @@
     {
       "id": "rss2tipp10",
       "name": "RSS zu Tipp10",
-      "version": "1.3.6",
+      "version": "1.3.7",
       "exec": "rss2tipp10.py",
       "subtitle": "Tippen üben mit Nachrichten",
       "color": "#fdc98a",
@@ -299,9 +299,9 @@
       ],
       "date": "2026-11-13",
       "notes": "Automatisch veröffentlicht:\n- geändert: app.json\n- geändert: rss2tipp10.py",
-      "size": 987173,
-      "sha256": "e730c0772efb593707651ac02791257b1dc579694146c9e901ee502daaff7137",
-      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/rss2tipp10-v1.3.6/rss2tipp10-1.3.6.tar.gz",
+      "size": 987312,
+      "sha256": "a344bdd81785fde25ad859cdcdba69d2656ed8f3e48e644ab582eb58b98903d9",
+      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/rss2tipp10-v1.3.7/rss2tipp10-1.3.7.tar.gz",
       "icon_url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/icons/rss2tipp10.png",
       "icon_sha": "c156599ca1b841880147f9660d3c252a5bb34cc6e19da9bf4d9298bc3cfc306f",
       "screenshot_urls": [
@@ -315,6 +315,11 @@
         }
       ],
       "history": [
+        {
+          "version": "1.3.7",
+          "date": "2026-11-13",
+          "notes": "Automatisch veröffentlicht:\n- geändert: app.json\n- geändert: rss2tipp10.py"
+        },
         {
           "version": "1.3.6",
           "date": "2026-11-13",
@@ -353,5 +358,5 @@
       ]
     }
   ],
-  "updated": "2026-11-13T20:44:45"
+  "updated": "2026-11-13T20:44:52"
 }
