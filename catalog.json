@@ -94,7 +94,7 @@
     {
       "id": "liquid-intro",
       "name": "Liquid Intro",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "exec": "liquid-intro.py",
       "subtitle": "Logo-Reveal wie bei Apple Music",
       "color": "#8fa9ff",
@@ -137,10 +137,10 @@
         }
       ],
       "date": "2026-11-13",
-      "notes": "Automatisch veröffentlicht:\n- geändert: app.json",
-      "size": 2082207,
-      "sha256": "ee7987c0cd6f6c2ce0e4723b483e525a611f5f3f3bcc82d707653e6154db9c63",
-      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/liquid-intro-v1.0.4/liquid-intro-1.0.4.tar.gz",
+      "notes": "Neu:\n- Neues Icon\n- Screenshots und ausführliche Beschreibung im Launcher",
+      "size": 2082203,
+      "sha256": "d45d8b687771f24c72220bd577f3a5edddbbba5321047eacc461d480a651c7b0",
+      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/liquid-intro-v1.0.5/liquid-intro-1.0.5.tar.gz",
       "icon_url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/icons/liquid-intro.png",
       "icon_sha": "a56416b750cdc2a22c91895d77b0150803b6788e6536d77d873c0a23aa45c989",
       "screenshot_urls": [
@@ -158,6 +158,11 @@
         }
       ],
       "history": [
+        {
+          "version": "1.0.5",
+          "date": "2026-11-13",
+          "notes": "Neu:\n- Neues Icon\n- Screenshots und ausführliche Beschreibung im Launcher"
+        },
         {
           "version": "1.0.4",
           "date": "2026-11-13",
@@ -221,5 +226,5 @@
       ]
     }
   ],
-  "updated": "2026-11-13T19:27:08"
+  "updated": "2026-11-13T19:27:50"
 }
