@@ -5,7 +5,7 @@
     {
       "id": "amakerlauncher",
       "name": "AMakerLauncher",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "exec": "amakerlauncher.py",
       "subtitle": "Deine Apps an einem Ort",
       "color": "#f68c98",
@@ -37,13 +37,18 @@
         "fonts/OFL.txt"
       ],
       "date": "2026-11-13",
-      "notes": "Automatisch veröffentlicht:\n- geändert: app.json\n- geändert: icon/amakerlauncher-128.png\n- geändert: icon/amakerlauncher-256.png\n- geändert: icon/amakerlauncher-48.png\n- geändert: icon/amakerlauncher-512.png\n- geändert: icon/amakerlauncher-64.png\n- geändert: icon/amakerlauncher-dev-128.png\n- geändert: icon/amakerlauncher-dev-256.png\n- geändert: icon/amakerlauncher-dev-48.png\n- geändert: icon/amakerlauncher-dev-512.png\n- geändert: icon/amakerlauncher-dev-64.png\n- geändert: icon/amakerlauncher-dev.png\n- geändert: icon/amakerlauncher-dev.svg\n- geändert: icon/amakerlauncher.png\n- geändert: icon/amakerlauncher.svg\n- geändert: ui/index.html",
-      "size": 455124,
-      "sha256": "f567ed9cf6cc973c27cf61c1d5d801f9765136b22c8408ebcd8e1cb86fe9e25b",
-      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/amakerlauncher-v1.0.1/amakerlauncher-1.0.1.tar.gz",
+      "notes": "Automatisch veröffentlicht:\n- geändert: app.json\n- geändert: icon/amakerlauncher-128.png\n- geändert: icon/amakerlauncher-256.png\n- geändert: icon/amakerlauncher-48.png\n- geändert: icon/amakerlauncher-512.png\n- geändert: icon/amakerlauncher-64.png\n- geändert: icon/amakerlauncher-dev-128.png\n- geändert: icon/amakerlauncher-dev-256.png\n- geändert: icon/amakerlauncher-dev-48.png\n- geändert: icon/amakerlauncher-dev-512.png\n- geändert: icon/amakerlauncher-dev-64.png\n- geändert: icon/amakerlauncher-dev.png\n- geändert: icon/amakerlauncher-dev.svg\n- geändert: icon/amakerlauncher.png\n- geändert: icon/amakerlauncher.svg",
+      "size": 490880,
+      "sha256": "507ef17f6beff793957e71a20eaa0241b6812826aa0bea896776d13966649f43",
+      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/amakerlauncher-v1.0.2/amakerlauncher-1.0.2.tar.gz",
       "icon_url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/icons/amakerlauncher.png",
-      "icon_sha": "63627b61a76d6075be105938ed7903d2e6d61c2940d3b66c8e6f22999a0fbdba",
+      "icon_sha": "342bc526c358bc5a5dc8b28cd239d8251e3a5b30126bfce16053d83c37bcea9d",
       "history": [
+        {
+          "version": "1.0.2",
+          "date": "2026-11-13",
+          "notes": "Automatisch veröffentlicht:\n- geändert: app.json\n- geändert: icon/amakerlauncher-128.png\n- geändert: icon/amakerlauncher-256.png\n- geändert: icon/amakerlauncher-48.png\n- geändert: icon/amakerlauncher-512.png\n- geändert: icon/amakerlauncher-64.png\n- geändert: icon/amakerlauncher-dev-128.png\n- geändert: icon/amakerlauncher-dev-256.png\n- geändert: icon/amakerlauncher-dev-48.png\n- geändert: icon/amakerlauncher-dev-512.png\n- geändert: icon/amakerlauncher-dev-64.png\n- geändert: icon/amakerlauncher-dev.png\n- geändert: icon/amakerlauncher-dev.svg\n- geändert: icon/amakerlauncher.png\n- geändert: icon/amakerlauncher.svg"
+        },
         {
           "version": "1.0.1",
           "date": "2026-11-13",
@@ -141,5 +146,5 @@
       ]
     }
   ],
-  "updated": "2026-11-13T19:14:13"
+  "updated": "2026-11-13T19:15:55"
 }
