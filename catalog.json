@@ -64,7 +64,7 @@
     {
       "id": "liquid-intro",
       "name": "Liquid Intro",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "exec": "liquid-intro.py",
       "subtitle": "Logo-Reveal wie bei Apple Music",
       "color": "#8fa9ff",
@@ -91,13 +91,18 @@
         }
       ],
       "date": "2026-11-13",
-      "notes": "Automatisch veröffentlicht:\n- neu: screenshots/1-reveal.png\n- neu: screenshots/2-wellen.png\n- neu: screenshots/3-einstellungen.png\n- geändert: app.json\n- geändert: icon/liquid-intro-128.png\n- geändert: icon/liquid-intro-256.png\n- geändert: icon/liquid-intro-48.png\n- geändert: icon/liquid-intro-512.png\n- geändert: icon/liquid-intro-64.png\n- geändert: icon/liquid-intro.png\n- geändert: icon/liquid-intro.svg",
-      "size": 2067642,
-      "sha256": "1b1785064c9b620edb1dde8bd1e819f9d1335a5c69bb7abef3234c00b33c22c6",
-      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/liquid-intro-v1.0.1/liquid-intro-1.0.1.tar.gz",
+      "notes": "Automatisch veröffentlicht:\n- geändert: app.json\n- geändert: icon/liquid-intro-128.png\n- geändert: icon/liquid-intro-256.png\n- geändert: icon/liquid-intro-48.png\n- geändert: icon/liquid-intro-512.png\n- geändert: icon/liquid-intro-64.png\n- geändert: icon/liquid-intro.png\n- geändert: icon/liquid-intro.svg",
+      "size": 2082199,
+      "sha256": "5dd7bc69d512653dc0c1d2a1128fa3e9d02e547ace1bbcbcdc8d0ddfb3b90404",
+      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/liquid-intro-v1.0.2/liquid-intro-1.0.2.tar.gz",
       "icon_url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/icons/liquid-intro.png",
-      "icon_sha": "4662faa1a7dfe536ff39b2db9534cfcf2b2da82cd8bb88dde9f1fd5972e8f1bc",
+      "icon_sha": "a56416b750cdc2a22c91895d77b0150803b6788e6536d77d873c0a23aa45c989",
       "history": [
+        {
+          "version": "1.0.2",
+          "date": "2026-11-13",
+          "notes": "Automatisch veröffentlicht:\n- geändert: app.json\n- geändert: icon/liquid-intro-128.png\n- geändert: icon/liquid-intro-256.png\n- geändert: icon/liquid-intro-48.png\n- geändert: icon/liquid-intro-512.png\n- geändert: icon/liquid-intro-64.png\n- geändert: icon/liquid-intro.png\n- geändert: icon/liquid-intro.svg"
+        },
         {
           "version": "1.0.1",
           "date": "2026-11-13",
@@ -146,5 +151,5 @@
       ]
     }
   ],
-  "updated": "2026-11-13T19:15:55"
+  "updated": "2026-11-13T19:17:44"
 }
