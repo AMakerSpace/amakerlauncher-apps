@@ -109,7 +109,7 @@
     {
       "id": "liquid-intro",
       "name": "Liquid Intro",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "exec": "liquid-intro.py",
       "subtitle": "Logo-Reveal wie bei Apple Music",
       "color": "#8fa9ff",
@@ -156,10 +156,10 @@
         "fonts/OFL.txt"
       ],
       "date": "2026-11-13",
-      "notes": "Automatisch veröffentlicht:\n- geändert: app/index.html\n- geändert: app.json",
-      "size": 2147721,
-      "sha256": "1d60d173eff4c725002a0f2e8ee98aa694cd1ca50a041e96e4b851de3d376947",
-      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/liquid-intro-v1.0.7/liquid-intro-1.0.7.tar.gz",
+      "notes": "Automatisch veröffentlicht:\n- geändert: app/index.html\n- geändert: app.json\n- geändert: screenshots/2-wellen.png\n- geändert: screenshots/3-einstellungen.png",
+      "size": 1950637,
+      "sha256": "f7c38a62c2390d74cbd29a1af7a05c765616ab9f93bcd268f779d1a38cb062da",
+      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/liquid-intro-v1.0.8/liquid-intro-1.0.8.tar.gz",
       "icon_url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/icons/liquid-intro.png",
       "icon_sha": "a56416b750cdc2a22c91895d77b0150803b6788e6536d77d873c0a23aa45c989",
       "screenshot_urls": [
@@ -169,14 +169,19 @@
         },
         {
           "url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/screenshots/liquid-intro/2-wellen.png",
-          "sha": "997bd0057d2b725cfe5e2fc7713b24f6571cfdbb3a2bed89839027030e878ec8"
+          "sha": "2f47b021173eafd866adf3131d8ae74802ec9578cee5fdd641c976ae11d7ebc9"
         },
         {
           "url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/screenshots/liquid-intro/3-einstellungen.png",
-          "sha": "121585b2ccc986fd89238591198ba791c786860c84aad8d98b9c7ad1d5ad0ba8"
+          "sha": "0ea560bc9fda053e5a3f242c18ccaaebae97c0b50b7f565223d28d13ed7e90fb"
         }
       ],
       "history": [
+        {
+          "version": "1.0.8",
+          "date": "2026-11-13",
+          "notes": "Automatisch veröffentlicht:\n- geändert: app/index.html\n- geändert: app.json\n- geändert: screenshots/2-wellen.png\n- geändert: screenshots/3-einstellungen.png"
+        },
         {
           "version": "1.0.7",
           "date": "2026-11-13",
@@ -313,5 +318,5 @@
       ]
     }
   ],
-  "updated": "2026-11-13T19:49:37"
+  "updated": "2026-11-13T19:50:54"
 }
