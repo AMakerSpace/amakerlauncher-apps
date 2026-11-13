@@ -5,7 +5,7 @@
     {
       "id": "amakerlauncher",
       "name": "AMakerLauncher",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "exec": "amakerlauncher.py",
       "subtitle": "Deine Apps an einem Ort",
       "color": "#f68c98",
@@ -52,10 +52,10 @@
         "fonts/OFL.txt"
       ],
       "date": "2026-11-13",
-      "notes": "Neu:\n- favMakerApps (unten im Footer): Thunderbird, VLC, Claude, Chrome, ArtCraft Launcher, VS Code, Obsidian, Discord und Raspberry Pi Imager auswählen und ohne Kommandozeile installieren oder aktualisieren\n- Dunkelmodus: Ränder leuchten im Logo-Verlauf, Knöpfe in Grau",
-      "size": 1322608,
-      "sha256": "31be2ea22465b827b661dd993028e7e0fb687d8805b3ae00a59ee7e13986d039",
-      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/amakerlauncher-v1.0.5/amakerlauncher-1.0.5.tar.gz",
+      "notes": "Automatisch veröffentlicht:\n- neu: favapps.py\n- geändert: amakerlauncher.py\n- geändert: app.json\n- geändert: ui/index.html",
+      "size": 1322610,
+      "sha256": "a12f30b4287550dbc6c0f1c5977d7f5e6ae0fa8dcb371df144e33040854c4c39",
+      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/amakerlauncher-v1.0.6/amakerlauncher-1.0.6.tar.gz",
       "icon_url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/icons/amakerlauncher.png",
       "icon_sha": "02a256bcbd39bb20bcc89e0392e08c88b0883d2ae5f1b9a91a1e934b89bb6a0e",
       "screenshot_urls": [
@@ -69,6 +69,11 @@
         }
       ],
       "history": [
+        {
+          "version": "1.0.6",
+          "date": "2026-11-13",
+          "notes": "Automatisch veröffentlicht:\n- neu: favapps.py\n- geändert: amakerlauncher.py\n- geändert: app.json\n- geändert: ui/index.html"
+        },
         {
           "version": "1.0.5",
           "date": "2026-11-13",
@@ -259,5 +264,5 @@
       ]
     }
   ],
-  "updated": "2026-11-13T19:42:09"
+  "updated": "2026-11-13T19:43:04"
 }
