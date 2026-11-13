@@ -5,7 +5,7 @@
     {
       "id": "amakerlauncher",
       "name": "AMakerLauncher",
-      "version": "1.0.8",
+      "version": "1.0.9",
       "exec": "amakerlauncher.py",
       "subtitle": "Deine Apps an einem Ort",
       "color": "#f68c98",
@@ -53,9 +53,9 @@
       ],
       "date": "2026-11-13",
       "notes": "Automatisch veröffentlicht:\n- geändert: app.json",
-      "size": 1325649,
-      "sha256": "808a6ef3346c730adb1962752d6ff5c1437be9a6036466306e298ed9122212de",
-      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/amakerlauncher-v1.0.8/amakerlauncher-1.0.8.tar.gz",
+      "size": 1325693,
+      "sha256": "789755bab0678a203be32a4a646042301a4272944cbcbc38f8d1cfe76297dc02",
+      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/amakerlauncher-v1.0.9/amakerlauncher-1.0.9.tar.gz",
       "icon_url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/icons/amakerlauncher.png",
       "icon_sha": "02a256bcbd39bb20bcc89e0392e08c88b0883d2ae5f1b9a91a1e934b89bb6a0e",
       "screenshot_urls": [
@@ -69,6 +69,11 @@
         }
       ],
       "history": [
+        {
+          "version": "1.0.9",
+          "date": "2026-11-13",
+          "notes": "Automatisch veröffentlicht:\n- geändert: app.json"
+        },
         {
           "version": "1.0.8",
           "date": "2026-11-13",
@@ -328,5 +333,5 @@
       ]
     }
   ],
-  "updated": "2026-11-13T20:39:39"
+  "updated": "2026-11-13T20:40:34"
 }
