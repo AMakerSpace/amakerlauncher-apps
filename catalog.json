@@ -1,5 +1,56 @@
 {
   "name": "AMaker Apps",
   "repo": "AMakerSpace/amakerlauncher-apps",
-  "apps": []
+  "apps": [
+    {
+      "id": "amakerlauncher",
+      "name": "AMakerLauncher",
+      "version": "1.0.0",
+      "exec": "amakerlauncher.py",
+      "subtitle": "Deine Apps an einem Ort",
+      "color": "#f68c98",
+      "description": "Installiert, aktualisiert und startet alle Apps aus dem AMaker-Katalog.",
+      "desktop_id": "de.amakerspace.AMakerLauncher",
+      "categories": "Utility;PackageManager;",
+      "requires": [
+        {
+          "cmd": "python3",
+          "apt": "python3"
+        },
+        {
+          "python": "gi",
+          "apt": "python3-gi"
+        },
+        {
+          "typelib": "WebKit2-4.1",
+          "apt": "gir1.2-webkit2-4.1"
+        }
+      ],
+      "fonts": [
+        "fonts/StackSansNotch-VariableFont_wght.ttf",
+        "fonts/StackSansNotch-ExtraLight.ttf",
+        "fonts/StackSansNotch-Light.ttf",
+        "fonts/StackSansNotch-Regular.ttf",
+        "fonts/StackSansNotch-Medium.ttf",
+        "fonts/StackSansNotch-SemiBold.ttf",
+        "fonts/StackSansNotch-Bold.ttf",
+        "fonts/OFL.txt"
+      ],
+      "date": "2026-11-13",
+      "notes": "Erste Veröffentlichung im AMakerLauncher",
+      "size": 484648,
+      "sha256": "1d831020ceb11a11ed91dfe870e6bcab9542a6d81693a4d3dc1676b5bd2cb748",
+      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/amakerlauncher-v1.0.0/amakerlauncher-1.0.0.tar.gz",
+      "icon_url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/icons/amakerlauncher.png",
+      "icon_sha": "f62bca6fb2c13a84520d684bab05776d70e8da861cbed9c182278fb9da28c73f",
+      "history": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-13",
+          "notes": "Erste Veröffentlichung im AMakerLauncher"
+        }
+      ]
+    }
+  ],
+  "updated": "2026-11-13T19:09:43"
 }
