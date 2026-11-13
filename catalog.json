@@ -75,6 +75,11 @@
           "notes": "Neu:\n- Detailseiten wie im App Store mit Screenshots, Beschreibung, Funktionen und Infos\n- Dunkelmodus (Hell / Dunkel / Auto)\n- Animationen und umlaufender Farbverlauf beim Überfahren von Knöpfen\n- Neue Icons im Neo-Brutalismus"
         },
         {
+          "version": "1.0.3",
+          "date": "2026-11-13",
+          "notes": "Automatisch veröffentlicht:\n- geändert: amakerlauncher.py\n- geändert: app.json\n- geändert: icon/amakerlauncher-128.png\n- geändert: icon/amakerlauncher-256.png\n- geändert: icon/amakerlauncher-48.png\n- geändert: icon/amakerlauncher-512.png\n- geändert: icon/amakerlauncher-64.png\n- geändert: icon/amakerlauncher-dev-128.png\n- geändert: icon/amakerlauncher-dev-256.png\n- geändert: icon/amakerlauncher-dev-48.png\n- geändert: icon/amakerlauncher-dev-512.png\n- geändert: icon/amakerlauncher-dev-64.png\n- geändert: icon/amakerlauncher-dev.png\n- geändert: icon/amakerlauncher-dev.svg\n- geändert: icon/amakerlauncher.png\n- geändert: icon/amakerlauncher.svg"
+        },
+        {
           "version": "1.0.2",
           "date": "2026-11-13",
           "notes": "Automatisch veröffentlicht:\n- geändert: app.json\n- geändert: icon/amakerlauncher-128.png\n- geändert: icon/amakerlauncher-256.png\n- geändert: icon/amakerlauncher-48.png\n- geändert: icon/amakerlauncher-512.png\n- geändert: icon/amakerlauncher-64.png\n- geändert: icon/amakerlauncher-dev-128.png\n- geändert: icon/amakerlauncher-dev-256.png\n- geändert: icon/amakerlauncher-dev-48.png\n- geändert: icon/amakerlauncher-dev-512.png\n- geändert: icon/amakerlauncher-dev-64.png\n- geändert: icon/amakerlauncher-dev.png\n- geändert: icon/amakerlauncher-dev.svg\n- geändert: icon/amakerlauncher.png\n- geändert: icon/amakerlauncher.svg"
@@ -235,6 +240,11 @@
           "version": "1.3.2",
           "date": "2026-11-13",
           "notes": "Neu:\n- Neues Icon\n- Ausführliche Beschreibung im Launcher"
+        },
+        {
+          "version": "1.3.1",
+          "date": "2026-11-13",
+          "notes": "Automatisch veröffentlicht:\n- geändert: app.json\n- geändert: icon/rss2tipp10-128.png\n- geändert: icon/rss2tipp10-256.png\n- geändert: icon/rss2tipp10-48.png\n- geändert: icon/rss2tipp10-512.png\n- geändert: icon/rss2tipp10-64.png\n- geändert: icon/rss2tipp10.png\n- geändert: icon/rss2tipp10.svg\n- geändert: rss2tipp10.png\n- geändert: rss2tipp10.py"
         },
         {
           "version": "1.3.0",
