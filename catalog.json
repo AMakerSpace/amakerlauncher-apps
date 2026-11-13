@@ -213,7 +213,7 @@
     {
       "id": "rss2tipp10",
       "name": "RSS zu Tipp10",
-      "version": "1.3.3",
+      "version": "1.3.4",
       "exec": "rss2tipp10.py",
       "subtitle": "Tippen üben mit Nachrichten",
       "color": "#fdc98a",
@@ -223,9 +223,9 @@
         "Beliebige RSS- und Atom-Feeds verwalten",
         "Volltext von der Website nachladen, wenn der Feed nur einen Teaser hat",
         "Vorschau direkt bearbeiten",
-        "Direkt in Tipp10 unter „Eigene Lektionen“ eintragen",
+        "Direkt in Tipp10 unter „Eigene Lektionen“ eintragen – mit automatischem Backup",
         "Findet Tipp10 als Snap, .deb oder Flatpak",
-        "Feeds bleiben bei Updates erhalten"
+        "Neues Design wie der AMakerLauncher, mit Dunkelmodus"
       ],
       "developer": "Arthur · AMakerSpace",
       "languages": "Deutsch",
@@ -238,19 +238,32 @@
           "apt": "python3"
         },
         {
-          "python": "tkinter",
-          "apt": "python3-tk"
+          "python": "gi",
+          "apt": "python3-gi"
+        },
+        {
+          "typelib": "WebKit2-4.1",
+          "apt": "gir1.2-webkit2-4.1"
         }
       ],
+      "fonts": [
+        "fonts/StackSansNotch-VariableFont_wght.ttf",
+        "fonts/OFL.txt"
+      ],
       "date": "2026-11-13",
-      "notes": "Automatisch veröffentlicht:\n- neu: fonts/OFL.txt\n- neu: fonts/StackSansNotch-VariableFont_wght.ttf\n- geändert: app.json\n- geändert: rss2tipp10.py",
-      "size": 192159,
-      "sha256": "f156ded021086e1307540ecba0bde6cfb715dd96c331e585d0e84d700fcafcdd",
-      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/rss2tipp10-v1.3.3/rss2tipp10-1.3.3.tar.gz",
+      "notes": "Automatisch veröffentlicht:\n- neu: ui/index.html\n- geändert: app.json\n- geändert: rss2tipp10.py",
+      "size": 199491,
+      "sha256": "853ba3cb29d62f9ffeb377f75fe2b7578e8fdad244eb26bd2c37e26d401f1b02",
+      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/rss2tipp10-v1.3.4/rss2tipp10-1.3.4.tar.gz",
       "icon_url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/icons/rss2tipp10.png",
       "icon_sha": "c156599ca1b841880147f9660d3c252a5bb34cc6e19da9bf4d9298bc3cfc306f",
       "screenshot_urls": [],
       "history": [
+        {
+          "version": "1.3.4",
+          "date": "2026-11-13",
+          "notes": "Automatisch veröffentlicht:\n- neu: ui/index.html\n- geändert: app.json\n- geändert: rss2tipp10.py"
+        },
         {
           "version": "1.3.3",
           "date": "2026-11-13",
@@ -274,5 +287,5 @@
       ]
     }
   ],
-  "updated": "2026-11-13T19:46:18"
+  "updated": "2026-11-13T19:47:38"
 }
