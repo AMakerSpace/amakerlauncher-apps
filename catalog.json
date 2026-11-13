@@ -50,7 +50,51 @@
           "notes": "Erste Veröffentlichung im AMakerLauncher"
         }
       ]
+    },
+    {
+      "id": "liquid-intro",
+      "name": "Liquid Intro",
+      "version": "1.0.0",
+      "exec": "liquid-intro.py",
+      "subtitle": "Logo-Reveal wie bei Apple Music",
+      "color": "#8fa9ff",
+      "description": "Hebt dein PNG unter einer Prismaplatte aus schwingender Flüssigkeit hervor und exportiert das Intro als Video, Greenscreen oder mit Transparenz.",
+      "desktop_id": "de.arthur.LiquidIntro",
+      "categories": "AudioVideo;Video;",
+      "mime": "image/png;",
+      "requires": [
+        {
+          "cmd": "python3",
+          "apt": "python3"
+        },
+        {
+          "python": "gi",
+          "apt": "python3-gi"
+        },
+        {
+          "typelib": "WebKit2-4.1",
+          "apt": "gir1.2-webkit2-4.1"
+        },
+        {
+          "cmd": "ffmpeg",
+          "apt": "ffmpeg"
+        }
+      ],
+      "date": "2026-11-13",
+      "notes": "Erste Veröffentlichung im AMakerLauncher",
+      "size": 142775,
+      "sha256": "66b0945f013b5ccb320fbe3571de04eec25c63e33d6f8985cc91d4d43951bf97",
+      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/liquid-intro-v1.0.0/liquid-intro-1.0.0.tar.gz",
+      "icon_url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/icons/liquid-intro.png",
+      "icon_sha": "27276b5053e6eed8354dd7365192e6a1ea6f76d5b4bb0b55ac2dd1e2901d65a4",
+      "history": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-13",
+          "notes": "Erste Veröffentlichung im AMakerLauncher"
+        }
+      ]
     }
   ],
-  "updated": "2026-11-13T19:09:43"
+  "updated": "2026-11-13T19:09:50"
 }
