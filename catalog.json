@@ -5,7 +5,7 @@
     {
       "id": "amakerlauncher",
       "name": "AMakerLauncher",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "exec": "amakerlauncher.py",
       "subtitle": "Deine Apps an einem Ort",
       "color": "#f68c98",
@@ -37,13 +37,18 @@
         "fonts/OFL.txt"
       ],
       "date": "2026-11-13",
-      "notes": "Erste Veröffentlichung im AMakerLauncher",
-      "size": 484648,
-      "sha256": "1d831020ceb11a11ed91dfe870e6bcab9542a6d81693a4d3dc1676b5bd2cb748",
-      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/amakerlauncher-v1.0.0/amakerlauncher-1.0.0.tar.gz",
+      "notes": "Automatisch veröffentlicht:\n- geändert: app.json\n- geändert: icon/amakerlauncher-128.png\n- geändert: icon/amakerlauncher-256.png\n- geändert: icon/amakerlauncher-48.png\n- geändert: icon/amakerlauncher-512.png\n- geändert: icon/amakerlauncher-64.png\n- geändert: icon/amakerlauncher-dev-128.png\n- geändert: icon/amakerlauncher-dev-256.png\n- geändert: icon/amakerlauncher-dev-48.png\n- geändert: icon/amakerlauncher-dev-512.png\n- geändert: icon/amakerlauncher-dev-64.png\n- geändert: icon/amakerlauncher-dev.png\n- geändert: icon/amakerlauncher-dev.svg\n- geändert: icon/amakerlauncher.png\n- geändert: icon/amakerlauncher.svg\n- geändert: ui/index.html",
+      "size": 455124,
+      "sha256": "f567ed9cf6cc973c27cf61c1d5d801f9765136b22c8408ebcd8e1cb86fe9e25b",
+      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/amakerlauncher-v1.0.1/amakerlauncher-1.0.1.tar.gz",
       "icon_url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/icons/amakerlauncher.png",
-      "icon_sha": "f62bca6fb2c13a84520d684bab05776d70e8da861cbed9c182278fb9da28c73f",
+      "icon_sha": "63627b61a76d6075be105938ed7903d2e6d61c2940d3b66c8e6f22999a0fbdba",
       "history": [
+        {
+          "version": "1.0.1",
+          "date": "2026-11-13",
+          "notes": "Automatisch veröffentlicht:\n- geändert: app.json\n- geändert: icon/amakerlauncher-128.png\n- geändert: icon/amakerlauncher-256.png\n- geändert: icon/amakerlauncher-48.png\n- geändert: icon/amakerlauncher-512.png\n- geändert: icon/amakerlauncher-64.png\n- geändert: icon/amakerlauncher-dev-128.png\n- geändert: icon/amakerlauncher-dev-256.png\n- geändert: icon/amakerlauncher-dev-48.png\n- geändert: icon/amakerlauncher-dev-512.png\n- geändert: icon/amakerlauncher-dev-64.png\n- geändert: icon/amakerlauncher-dev.png\n- geändert: icon/amakerlauncher-dev.svg\n- geändert: icon/amakerlauncher.png\n- geändert: icon/amakerlauncher.svg\n- geändert: ui/index.html"
+        },
         {
           "version": "1.0.0",
           "date": "2026-11-13",
@@ -131,5 +136,5 @@
       ]
     }
   ],
-  "updated": "2026-11-13T19:09:58"
+  "updated": "2026-11-13T19:13:35"
 }
