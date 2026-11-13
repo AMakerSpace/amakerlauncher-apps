@@ -5,7 +5,7 @@
     {
       "id": "amakerlauncher",
       "name": "AMakerLauncher",
-      "version": "1.0.11",
+      "version": "1.0.12",
       "exec": "amakerlauncher.py",
       "subtitle": "Deine Apps an einem Ort",
       "color": "#f68c98",
@@ -52,10 +52,10 @@
         "fonts/OFL.txt"
       ],
       "date": "2026-11-13",
-      "notes": "Automatisch veröffentlicht:\n- neu: bugpicker.py\n- geändert: amakerlauncher.py\n- geändert: app.json\n- geändert: devcli.py\n- geändert: ui/index.html",
-      "size": 1335927,
-      "sha256": "e7165f455fbe8d1f13f481317299dedaef8248dcbd285e33fb21eebd89c053c8",
-      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/amakerlauncher-v1.0.11/amakerlauncher-1.0.11.tar.gz",
+      "notes": "Automatisch veröffentlicht:\n- geändert: app.json\n- geändert: bugpicker.py\n- geändert: devcli.py",
+      "size": 1336239,
+      "sha256": "4d9b8d1778489c87e9a6248283f9fd857213f65089b939cd2f2ed8322a23d24a",
+      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/amakerlauncher-v1.0.12/amakerlauncher-1.0.12.tar.gz",
       "icon_url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/icons/amakerlauncher.png",
       "icon_sha": "02a256bcbd39bb20bcc89e0392e08c88b0883d2ae5f1b9a91a1e934b89bb6a0e",
       "screenshot_urls": [
@@ -69,6 +69,11 @@
         }
       ],
       "history": [
+        {
+          "version": "1.0.12",
+          "date": "2026-11-13",
+          "notes": "Automatisch veröffentlicht:\n- geändert: app.json\n- geändert: bugpicker.py\n- geändert: devcli.py"
+        },
         {
           "version": "1.0.11",
           "date": "2026-11-13",
@@ -363,5 +368,5 @@
       ]
     }
   ],
-  "updated": "2026-11-13T20:45:33"
+  "updated": "2026-11-13T20:48:10"
 }
