@@ -64,11 +64,27 @@
     {
       "id": "liquid-intro",
       "name": "Liquid Intro",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "exec": "liquid-intro.py",
       "subtitle": "Logo-Reveal wie bei Apple Music",
       "color": "#8fa9ff",
       "description": "Hebt dein PNG unter einer Prismaplatte aus schwingender Flüssigkeit hervor und exportiert das Intro als Video, Greenscreen oder mit Transparenz.",
+      "long_description": "Liquid Intro baut den Reveal des neuen Apple-Music-Logos nach: Dein PNG liegt unter einer Prismaplatte in Flüssigkeit. Beim Anheben reißt die Flüssigkeit ab, echte Wellen laufen nach außen und dein Logo formt sich – begleitet von einer kleinen Klangsignatur.\n\nDie Wellen werden auf der Grafikkarte nach der Wellengleichung mit Oberflächenspannung berechnet, die Farbsäume am Glas wellenlängengenau über Dispersion.",
+      "features": [
+        "Eigenes PNG per Drag & Drop oder Einfügen",
+        "Echte Wellensimulation mit Kapillarwellen",
+        "Physikalisch berechnete Farbsäume (Snellius, Cauchy, CIE)",
+        "Rund 60 Regler für Platte, Wellen, Licht und Kamera",
+        "Export als MP4, Greenscreen oder ProRes 4444 mit Transparenz",
+        "Eigener Text und eigener Sound am Ende"
+      ],
+      "developer": "Arthur · AMakerSpace",
+      "languages": "Deutsch",
+      "screenshots": [
+        "screenshots/1-reveal.png",
+        "screenshots/2-wellen.png",
+        "screenshots/3-einstellungen.png"
+      ],
       "desktop_id": "de.arthur.LiquidIntro",
       "categories": "AudioVideo;Video;",
       "mime": "image/png;",
@@ -91,13 +107,32 @@
         }
       ],
       "date": "2026-11-13",
-      "notes": "Automatisch veröffentlicht:\n- geändert: app.json\n- geändert: icon/liquid-intro-128.png\n- geändert: icon/liquid-intro-256.png\n- geändert: icon/liquid-intro-48.png\n- geändert: icon/liquid-intro-512.png\n- geändert: icon/liquid-intro-64.png\n- geändert: icon/liquid-intro.png\n- geändert: icon/liquid-intro.svg",
-      "size": 2082199,
-      "sha256": "5dd7bc69d512653dc0c1d2a1128fa3e9d02e547ace1bbcbcdc8d0ddfb3b90404",
-      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/liquid-intro-v1.0.2/liquid-intro-1.0.2.tar.gz",
+      "notes": "Neu:\n- Neues Icon\n- Screenshots und ausführliche Beschreibung im Launcher",
+      "size": 2082200,
+      "sha256": "4ccb2d5884088992f2e3fdd6176e7c10753bf82a0672a6b07b3867b0ca82665b",
+      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/liquid-intro-v1.0.3/liquid-intro-1.0.3.tar.gz",
       "icon_url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/icons/liquid-intro.png",
       "icon_sha": "a56416b750cdc2a22c91895d77b0150803b6788e6536d77d873c0a23aa45c989",
+      "screenshot_urls": [
+        {
+          "url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/screenshots/liquid-intro/1-reveal.png",
+          "sha": "a26779851f8df90451c3e28a7902c0e218114953d814b0d126a36c4139a9d8b9"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/screenshots/liquid-intro/2-wellen.png",
+          "sha": "997bd0057d2b725cfe5e2fc7713b24f6571cfdbb3a2bed89839027030e878ec8"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/screenshots/liquid-intro/3-einstellungen.png",
+          "sha": "121585b2ccc986fd89238591198ba791c786860c84aad8d98b9c7ad1d5ad0ba8"
+        }
+      ],
       "history": [
+        {
+          "version": "1.0.3",
+          "date": "2026-11-13",
+          "notes": "Neu:\n- Neues Icon\n- Screenshots und ausführliche Beschreibung im Launcher"
+        },
         {
           "version": "1.0.2",
           "date": "2026-11-13",
@@ -151,5 +186,5 @@
       ]
     }
   ],
-  "updated": "2026-11-13T19:17:44"
+  "updated": "2026-11-13T19:23:35"
 }
