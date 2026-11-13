@@ -5,11 +5,26 @@
     {
       "id": "amakerlauncher",
       "name": "AMakerLauncher",
-      "version": "1.0.2",
+      "version": "1.0.4",
       "exec": "amakerlauncher.py",
       "subtitle": "Deine Apps an einem Ort",
       "color": "#f68c98",
       "description": "Installiert, aktualisiert und startet alle Apps aus dem AMaker-Katalog.",
+      "long_description": "Der AMakerLauncher ist die Zentrale für alle Apps aus dem AMaker-Katalog. Er zeigt dir, welche Apps es gibt, welche du schon hast und ob es Updates gibt – und installiert alles mit einem Klick.\n\nDie Entwicklerversion beobachtet zusätzlich die Quellordner der Apps: Sobald eine App bearbeitet wird, erscheint automatisch eine neue Version im Katalog.",
+      "features": [
+        "Installieren, Öffnen, Aktualisieren und Entfernen mit einem Klick",
+        "Prüfsummen-Kontrolle bei jedem Download",
+        "Benachrichtigung, wenn Updates da sind",
+        "Raster- und Tabellenansicht, Suche und Filter",
+        "Dev-Version veröffentlicht Änderungen automatisch als neue Version",
+        "Bringt die Schrift Stack Sans Notch mit"
+      ],
+      "developer": "Arthur · AMakerSpace",
+      "languages": "Deutsch",
+      "screenshots": [
+        "screenshots/1-raster.png",
+        "screenshots/2-details.png"
+      ],
       "desktop_id": "de.amakerspace.AMakerLauncher",
       "categories": "Utility;PackageManager;",
       "requires": [
@@ -37,13 +52,28 @@
         "fonts/OFL.txt"
       ],
       "date": "2026-11-13",
-      "notes": "Automatisch veröffentlicht:\n- geändert: app.json\n- geändert: icon/amakerlauncher-128.png\n- geändert: icon/amakerlauncher-256.png\n- geändert: icon/amakerlauncher-48.png\n- geändert: icon/amakerlauncher-512.png\n- geändert: icon/amakerlauncher-64.png\n- geändert: icon/amakerlauncher-dev-128.png\n- geändert: icon/amakerlauncher-dev-256.png\n- geändert: icon/amakerlauncher-dev-48.png\n- geändert: icon/amakerlauncher-dev-512.png\n- geändert: icon/amakerlauncher-dev-64.png\n- geändert: icon/amakerlauncher-dev.png\n- geändert: icon/amakerlauncher-dev.svg\n- geändert: icon/amakerlauncher.png\n- geändert: icon/amakerlauncher.svg",
-      "size": 490880,
-      "sha256": "507ef17f6beff793957e71a20eaa0241b6812826aa0bea896776d13966649f43",
-      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/amakerlauncher-v1.0.2/amakerlauncher-1.0.2.tar.gz",
+      "notes": "Neu:\n- Detailseiten wie im App Store mit Screenshots, Beschreibung, Funktionen und Infos\n- Dunkelmodus (Hell / Dunkel / Auto)\n- Animationen und umlaufender Farbverlauf beim Überfahren von Knöpfen\n- Neue Icons im Neo-Brutalismus",
+      "size": 1316936,
+      "sha256": "7ef6ca80c1cfa06a1a1b8b2e9ffda368ac614144d07be32258994e6612b52645",
+      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/amakerlauncher-v1.0.4/amakerlauncher-1.0.4.tar.gz",
       "icon_url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/icons/amakerlauncher.png",
-      "icon_sha": "342bc526c358bc5a5dc8b28cd239d8251e3a5b30126bfce16053d83c37bcea9d",
+      "icon_sha": "02a256bcbd39bb20bcc89e0392e08c88b0883d2ae5f1b9a91a1e934b89bb6a0e",
+      "screenshot_urls": [
+        {
+          "url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/screenshots/amakerlauncher/1-raster.png",
+          "sha": "445745d57edeb734073612b874d2d20b398f23fd36db103c806284668083e72e"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/screenshots/amakerlauncher/2-details.png",
+          "sha": "7867ee53d843d8bfd77204161a53cdfadf20992c222adeea27e9ce6e7565929b"
+        }
+      ],
       "history": [
+        {
+          "version": "1.0.4",
+          "date": "2026-11-13",
+          "notes": "Neu:\n- Detailseiten wie im App Store mit Screenshots, Beschreibung, Funktionen und Infos\n- Dunkelmodus (Hell / Dunkel / Auto)\n- Animationen und umlaufender Farbverlauf beim Überfahren von Knöpfen\n- Neue Icons im Neo-Brutalismus"
+        },
         {
           "version": "1.0.2",
           "date": "2026-11-13",
@@ -191,5 +221,5 @@
       ]
     }
   ],
-  "updated": "2026-11-13T19:24:07"
+  "updated": "2026-11-13T19:27:08"
 }
