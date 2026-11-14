@@ -277,7 +277,7 @@
     {
       "id": "rss2tipp10",
       "name": "RSS zu Tipp10",
-      "version": "1.3.7",
+      "version": "1.3.8",
       "exec": "rss2tipp10.py",
       "subtitle": "Tippen üben mit Nachrichten",
       "color": "#fdc98a",
@@ -317,13 +317,13 @@
         "fonts/StackSansNotch-VariableFont_wght.ttf",
         "fonts/OFL.txt"
       ],
-      "date": "2026-11-13",
-      "notes": "Automatisch veröffentlicht:\n- geändert: app.json\n- geändert: rss2tipp10.py",
-      "size": 987312,
-      "sha256": "a344bdd81785fde25ad859cdcdba69d2656ed8f3e48e644ab582eb58b98903d9",
-      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/rss2tipp10-v1.3.7/rss2tipp10-1.3.7.tar.gz",
+      "date": "2026-11-14",
+      "notes": "Automatisch veröffentlicht:\n- neu: icon/rss2tipp10-dark-128.png\n- neu: icon/rss2tipp10-dark-256.png\n- neu: icon/rss2tipp10-dark-48.png\n- neu: icon/rss2tipp10-dark-512.png\n- neu: icon/rss2tipp10-dark-64.png\n- neu: icon/rss2tipp10-dark.png\n- neu: icon/rss2tipp10-dark.svg\n- neu: icon/rss2tipp10-light-128.png\n- neu: icon/rss2tipp10-light-256.png\n- neu: icon/rss2tipp10-light-48.png\n- neu: icon/rss2tipp10-light-512.png\n- neu: icon/rss2tipp10-light-64.png\n- neu: icon/rss2tipp10-light.png\n- neu: icon/rss2tipp10-light.svg\n- geändert: app.json\n- geändert: icon/rss2tipp10-128.png\n- geändert: icon/rss2tipp10-256.png\n- geändert: icon/rss2tipp10-48.png\n- geändert: icon/rss2tipp10-512.png\n- geändert: icon/rss2tipp10-64.png\n- geändert: icon/rss2tipp10.png\n- geändert: icon/rss2tipp10.svg\n- geändert: rss2tipp10.png\n- geändert: rss2tipp10.py\n- geändert: ui/index.html",
+      "size": 1783007,
+      "sha256": "92db9d005ac415ed414ff4dd79799ab605550a2b1e7c67c7b81f35c344976719",
+      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/rss2tipp10-v1.3.8/rss2tipp10-1.3.8.tar.gz",
       "icon_url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/icons/rss2tipp10.png",
-      "icon_sha": "c156599ca1b841880147f9660d3c252a5bb34cc6e19da9bf4d9298bc3cfc306f",
+      "icon_sha": "cbf16e8b2b432fcd7173fbc079df4d395ee4ec7642f6fb9eb4a94a93474c5d8b",
       "screenshot_urls": [
         {
           "url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/screenshots/rss2tipp10/1-hell.png",
@@ -335,6 +335,11 @@
         }
       ],
       "history": [
+        {
+          "version": "1.3.8",
+          "date": "2026-11-14",
+          "notes": "Automatisch veröffentlicht:\n- neu: icon/rss2tipp10-dark-128.png\n- neu: icon/rss2tipp10-dark-256.png\n- neu: icon/rss2tipp10-dark-48.png\n- neu: icon/rss2tipp10-dark-512.png\n- neu: icon/rss2tipp10-dark-64.png\n- neu: icon/rss2tipp10-dark.png\n- neu: icon/rss2tipp10-dark.svg\n- neu: icon/rss2tipp10-light-128.png\n- neu: icon/rss2tipp10-light-256.png\n- neu: icon/rss2tipp10-light-48.png\n- neu: icon/rss2tipp10-light-512.png\n- neu: icon/rss2tipp10-light-64.png\n- neu: icon/rss2tipp10-light.png\n- neu: icon/rss2tipp10-light.svg\n- geändert: app.json\n- geändert: icon/rss2tipp10-128.png\n- geändert: icon/rss2tipp10-256.png\n- geändert: icon/rss2tipp10-48.png\n- geändert: icon/rss2tipp10-512.png\n- geändert: icon/rss2tipp10-64.png\n- geändert: icon/rss2tipp10.png\n- geändert: icon/rss2tipp10.svg\n- geändert: rss2tipp10.png\n- geändert: rss2tipp10.py\n- geändert: ui/index.html"
+        },
         {
           "version": "1.3.7",
           "date": "2026-11-13",
@@ -378,5 +383,5 @@
       ]
     }
   ],
-  "updated": "2026-11-14T17:18:10"
+  "updated": "2026-11-14T17:18:19"
 }
