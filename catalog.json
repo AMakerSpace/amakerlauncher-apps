@@ -276,29 +276,29 @@
     },
     {
       "id": "rss2tipp10",
-      "name": "RSS zu Tipp10",
-      "version": "1.3.8",
+      "name": "RSSMaker",
+      "version": "1.3.9",
       "exec": "rss2tipp10.py",
-      "subtitle": "Tippen üben mit Nachrichten",
+      "subtitle": "RSS-Reader mit Tipp10-Funktion",
       "color": "#fdc98a",
-      "description": "Holt Artikel aus RSS- und Atom-Feeds und trägt sie als eigene Lektionen in Tipp10 ein.",
-      "long_description": "RSS zu Tipp10 holt Artikel aus RSS- und Atom-Feeds und macht daraus Übungstexte für das Zehnfinger-Programm Tipp10 – ein Satz pro Zeile.\n\nDie Lektion lässt sich direkt in Tipp10 eintragen (vorher wird automatisch ein Backup der Datenbank angelegt) oder als .txt-Datei speichern.",
+      "description": "Feeds abonnieren, Artikel lesen und merken – und jeden Artikel mit einem Klick als Tipp10-Lektion zum Tippen-Üben.",
+      "long_description": "RSSMaker ist ein schlanker RSS-Reader: Alle Feeds landen in einer Liste, Ungelesenes ist markiert, Artikel lassen sich merken und im Volltext lesen – auch wenn der Feed nur einen Anreißer liefert.\n\nAls Extra macht RSSMaker aus jedem Artikel eine Lektion für das Zehnfinger-Programm Tipp10: ein Satz pro Zeile, direkt unter „Eigene Lektionen“ eingetragen (mit automatischem Backup) oder als .txt gespeichert.",
       "features": [
-        "Beliebige RSS- und Atom-Feeds verwalten",
-        "Volltext von der Website nachladen, wenn der Feed nur einen Teaser hat",
-        "Vorschau direkt bearbeiten",
-        "Direkt in Tipp10 unter „Eigene Lektionen“ eintragen – mit automatischem Backup",
-        "Findet Tipp10 als Snap, .deb oder Flatpak",
-        "Neues Design wie der AMakerLauncher, mit Dunkelmodus"
+        "Alle Feeds in einer Liste, neueste zuerst – aktualisiert sich alle 30 Minuten",
+        "Ungelesen-Zähler, „Alle als gelesen“ und Suche",
+        "Artikel merken – bleiben auch, wenn sie aus dem Feed fallen",
+        "Volltext von der Website laden, wenn der Feed nur einen Anreißer hat",
+        "Tastenkürzel: J/K blättern, M gelesen, S merken, O Browser, T Tipp10, R aktualisieren",
+        "Tipp10-Funktion: Artikel als Lektion eintragen oder als .txt speichern"
       ],
       "developer": "Arthur · AMakerSpace",
       "languages": "Deutsch",
       "screenshots": [
-        "screenshots/1-hell.png",
-        "screenshots/2-dunkel.png"
+        "screenshots/1-lesen.png",
+        "screenshots/2-tipp10.png"
       ],
       "desktop_id": "rss2tipp10",
-      "categories": "Education;Utility;",
+      "categories": "Network;News;",
       "requires": [
         {
           "cmd": "python3",
@@ -318,23 +318,28 @@
         "fonts/OFL.txt"
       ],
       "date": "2026-11-14",
-      "notes": "Automatisch veröffentlicht:\n- neu: icon/rss2tipp10-dark-128.png\n- neu: icon/rss2tipp10-dark-256.png\n- neu: icon/rss2tipp10-dark-48.png\n- neu: icon/rss2tipp10-dark-512.png\n- neu: icon/rss2tipp10-dark-64.png\n- neu: icon/rss2tipp10-dark.png\n- neu: icon/rss2tipp10-dark.svg\n- neu: icon/rss2tipp10-light-128.png\n- neu: icon/rss2tipp10-light-256.png\n- neu: icon/rss2tipp10-light-48.png\n- neu: icon/rss2tipp10-light-512.png\n- neu: icon/rss2tipp10-light-64.png\n- neu: icon/rss2tipp10-light.png\n- neu: icon/rss2tipp10-light.svg\n- geändert: app.json\n- geändert: icon/rss2tipp10-128.png\n- geändert: icon/rss2tipp10-256.png\n- geändert: icon/rss2tipp10-48.png\n- geändert: icon/rss2tipp10-512.png\n- geändert: icon/rss2tipp10-64.png\n- geändert: icon/rss2tipp10.png\n- geändert: icon/rss2tipp10.svg\n- geändert: rss2tipp10.png\n- geändert: rss2tipp10.py\n- geändert: ui/index.html",
-      "size": 1783007,
-      "sha256": "92db9d005ac415ed414ff4dd79799ab605550a2b1e7c67c7b81f35c344976719",
-      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/rss2tipp10-v1.3.8/rss2tipp10-1.3.8.tar.gz",
+      "notes": "Automatisch veröffentlicht:\n- neu: screenshots/1-lesen.png\n- neu: screenshots/2-tipp10.png\n- geändert: LIESMICH.txt\n- geändert: app.json\n- geändert: rss2tipp10.py\n- geändert: ui/index.html\n- entfernt: screenshots/1-hell.png\n- entfernt: screenshots/2-dunkel.png",
+      "size": 1674822,
+      "sha256": "782cb0df4358f7c9f4d1da9ee54f500a99d4e7291ecde787160ab6cf56e82f86",
+      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/rss2tipp10-v1.3.9/rss2tipp10-1.3.9.tar.gz",
       "icon_url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/icons/rss2tipp10.png",
       "icon_sha": "cbf16e8b2b432fcd7173fbc079df4d395ee4ec7642f6fb9eb4a94a93474c5d8b",
       "screenshot_urls": [
         {
-          "url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/screenshots/rss2tipp10/1-hell.png",
-          "sha": "668579c88fa8ec6ee33256ef5b78f790845f9d72f62b1aeb646e5ac469b153bf"
+          "url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/screenshots/rss2tipp10/1-lesen.png",
+          "sha": "7a18a10dc01a0bdbe356e8177e9191ac2aaed108c211e32b6a99cd61f476ada9"
         },
         {
-          "url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/screenshots/rss2tipp10/2-dunkel.png",
-          "sha": "d61338936438c9b8d7ce7c20ee1d4b1fd2e69d5fa7830965cc8434e2a8b16c8e"
+          "url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/screenshots/rss2tipp10/2-tipp10.png",
+          "sha": "5698b85319086c808d62a7f43c9957edf8bd3b02351f1e07b2382c5fdb748fa0"
         }
       ],
       "history": [
+        {
+          "version": "1.3.9",
+          "date": "2026-11-14",
+          "notes": "Automatisch veröffentlicht:\n- neu: screenshots/1-lesen.png\n- neu: screenshots/2-tipp10.png\n- geändert: LIESMICH.txt\n- geändert: app.json\n- geändert: rss2tipp10.py\n- geändert: ui/index.html\n- entfernt: screenshots/1-hell.png\n- entfernt: screenshots/2-dunkel.png"
+        },
         {
           "version": "1.3.8",
           "date": "2026-11-14",
@@ -383,5 +388,5 @@
       ]
     }
   ],
-  "updated": "2026-11-14T17:18:19"
+  "updated": "2026-11-14T17:19:17"
 }
