@@ -5,7 +5,7 @@
     {
       "id": "amakerlauncher",
       "name": "AMakerLauncher",
-      "version": "1.0.12",
+      "version": "1.0.13",
       "exec": "amakerlauncher.py",
       "subtitle": "Deine Apps an einem Ort",
       "color": "#f68c98",
@@ -51,13 +51,13 @@
         "fonts/StackSansNotch-Bold.ttf",
         "fonts/OFL.txt"
       ],
-      "date": "2026-11-13",
-      "notes": "Automatisch veröffentlicht:\n- geändert: app.json\n- geändert: bugpicker.py\n- geändert: devcli.py",
-      "size": 1336239,
-      "sha256": "4d9b8d1778489c87e9a6248283f9fd857213f65089b939cd2f2ed8322a23d24a",
-      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/amakerlauncher-v1.0.12/amakerlauncher-1.0.12.tar.gz",
+      "date": "2026-11-14",
+      "notes": "Automatisch veröffentlicht:\n- neu: icon/amakerlauncher-dark-128.png\n- neu: icon/amakerlauncher-dark-256.png\n- neu: icon/amakerlauncher-dark-48.png\n- neu: icon/amakerlauncher-dark-512.png\n- neu: icon/amakerlauncher-dark-64.png\n- neu: icon/amakerlauncher-dark.png\n- neu: icon/amakerlauncher-dark.svg\n- neu: icon/amakerlauncher-dev-dark-128.png\n- neu: icon/amakerlauncher-dev-dark-256.png\n- neu: icon/amakerlauncher-dev-dark-48.png\n- neu: icon/amakerlauncher-dev-dark-512.png\n- neu: icon/amakerlauncher-dev-dark-64.png\n- neu: icon/amakerlauncher-dev-dark.png\n- neu: icon/amakerlauncher-dev-dark.svg\n- neu: icon/amakerlauncher-dev-light-128.png\n- neu: icon/amakerlauncher-dev-light-256.png\n- neu: icon/amakerlauncher-dev-light-48.png\n- neu: icon/amakerlauncher-dev-light-512.png\n- neu: icon/amakerlauncher-dev-light-64.png\n- neu: icon/amakerlauncher-dev-light.png\n- neu: icon/amakerlauncher-dev-light.svg\n- neu: icon/amakerlauncher-light-128.png\n- neu: icon/amakerlauncher-light-256.png\n- neu: icon/amakerlauncher-light-48.png\n- neu: icon/amakerlauncher-light-512.png\n- neu: icon/amakerlauncher-light-64.png\n- neu: icon/amakerlauncher-light.png\n- neu: icon/amakerlauncher-light.svg\n- neu: themeicons.py\n- geändert: amakerlauncher.py",
+      "size": 2804166,
+      "sha256": "167cf359b27ee54f6ea08eb07746a93348159bcea256f92c2b6978b5a09bf88b",
+      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/amakerlauncher-v1.0.13/amakerlauncher-1.0.13.tar.gz",
       "icon_url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/icons/amakerlauncher.png",
-      "icon_sha": "02a256bcbd39bb20bcc89e0392e08c88b0883d2ae5f1b9a91a1e934b89bb6a0e",
+      "icon_sha": "31f8873d81ab74bdcaadb58fb7a72a16191d55db4b1c0753fd149cfe3a5a4286",
       "screenshot_urls": [
         {
           "url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/screenshots/amakerlauncher/1-raster.png",
@@ -69,6 +69,11 @@
         }
       ],
       "history": [
+        {
+          "version": "1.0.13",
+          "date": "2026-11-14",
+          "notes": "Automatisch veröffentlicht:\n- neu: icon/amakerlauncher-dark-128.png\n- neu: icon/amakerlauncher-dark-256.png\n- neu: icon/amakerlauncher-dark-48.png\n- neu: icon/amakerlauncher-dark-512.png\n- neu: icon/amakerlauncher-dark-64.png\n- neu: icon/amakerlauncher-dark.png\n- neu: icon/amakerlauncher-dark.svg\n- neu: icon/amakerlauncher-dev-dark-128.png\n- neu: icon/amakerlauncher-dev-dark-256.png\n- neu: icon/amakerlauncher-dev-dark-48.png\n- neu: icon/amakerlauncher-dev-dark-512.png\n- neu: icon/amakerlauncher-dev-dark-64.png\n- neu: icon/amakerlauncher-dev-dark.png\n- neu: icon/amakerlauncher-dev-dark.svg\n- neu: icon/amakerlauncher-dev-light-128.png\n- neu: icon/amakerlauncher-dev-light-256.png\n- neu: icon/amakerlauncher-dev-light-48.png\n- neu: icon/amakerlauncher-dev-light-512.png\n- neu: icon/amakerlauncher-dev-light-64.png\n- neu: icon/amakerlauncher-dev-light.png\n- neu: icon/amakerlauncher-dev-light.svg\n- neu: icon/amakerlauncher-light-128.png\n- neu: icon/amakerlauncher-light-256.png\n- neu: icon/amakerlauncher-light-48.png\n- neu: icon/amakerlauncher-light-512.png\n- neu: icon/amakerlauncher-light-64.png\n- neu: icon/amakerlauncher-light.png\n- neu: icon/amakerlauncher-light.svg\n- neu: themeicons.py\n- geändert: amakerlauncher.py"
+        },
         {
           "version": "1.0.12",
           "date": "2026-11-13",
@@ -368,5 +373,5 @@
       ]
     }
   ],
-  "updated": "2026-11-13T20:48:10"
+  "updated": "2026-11-14T17:18:01"
 }
