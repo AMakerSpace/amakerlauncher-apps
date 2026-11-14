@@ -391,7 +391,77 @@
           "notes": "Erste Veröffentlichung im AMakerLauncher"
         }
       ]
+    },
+    {
+      "id": "video-maker",
+      "name": "VideoMaker",
+      "version": "0.1.0",
+      "exec": "videomaker",
+      "subtitle": "Videos schneiden – so einfach wie iMovie",
+      "color": "#ff93a0",
+      "description": "Videoschnitt mit Medien, großer Vorschau und einem Film unten – mit dem Kdenlive-Motor darunter.",
+      "long_description": "VideoMaker macht aus Kdenlive einen Videoeditor, der sich wie iMovie anfühlt: links deine Medien, rechts die Vorschau, unten der Film. Clips hängst du mit einem Klick oder der Taste E ans Ende, Werkzeuge für Farbe, Ton und Tempo sitzen über der Vorschau, ihre Regler klappen direkt darunter auf.\n\nUnter der Haube arbeitet Kdenlive mit allen Effekten und dem bewährten Export. Ein Klick auf „Erweitert“ zeigt die volle Kdenlive-Oberfläche – im selben Projekt.\n\nAlpha: Vieles fehlt noch (Titel- und Hintergrund-Reiter, Teilen-Dialog, Projektübersicht).",
+      "features": [
+        "Aufbau wie iMovie: Medien, große Vorschau, Film ohne Spurköpfe",
+        "Clips mit ＋ oder Taste E ans Ende des Films hängen",
+        "Werkzeuge über der Vorschau, Regler klappen direkt darunter auf",
+        "Mehr als iMovie: Bild-in-Bild, Keyframes, Untertitel aus Sprache",
+        "Hell, Dunkel oder Auto – Deutsch, Englisch umschaltbar",
+        "Erweitert: volle Kdenlive-Oberfläche im selben Projekt"
+      ],
+      "developer": "Arthur · AMakerSpace",
+      "languages": "Deutsch, Englisch",
+      "stage": "alpha",
+      "screenshots": [
+        "screenshots/1-film-hell.png",
+        "screenshots/2-regler.png",
+        "screenshots/3-film-dunkel.png"
+      ],
+      "desktop_id": "de.amakerspace.VideoMaker",
+      "categories": "AudioVideo;Video;AudioVideoEditing;",
+      "requires": [
+        {
+          "cmd": "kdenlive",
+          "apt": "kdenlive"
+        },
+        {
+          "cmd": "ffmpeg",
+          "apt": "ffmpeg"
+        }
+      ],
+      "fonts": [
+        "fonts/StackSansNotch-VariableFont_wght.ttf",
+        "fonts/OFL.txt"
+      ],
+      "date": "2026-11-14",
+      "notes": "Erste Veröffentlichung",
+      "size": 26779936,
+      "sha256": "52f939f0525a74934ed2b2867d9cfca40dc8947e3abb42295fb78d06442138a9",
+      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/video-maker-v0.1.0/video-maker-0.1.0.tar.gz",
+      "icon_url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/icons/video-maker.png",
+      "icon_sha": "ec9dd66c3b149b766df7ba1775008ad971966d53718d8a9287b89a2fce6850fe",
+      "screenshot_urls": [
+        {
+          "url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/screenshots/video-maker/1-film-hell.png",
+          "sha": "8fc2454574684b9924664aa7e4e03f9c13642da9bbd9178adedb2a8a58b839f3"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/screenshots/video-maker/2-regler.png",
+          "sha": "0a33854b31f300485a9b01e6c316107d4817dca40395b1152a6ab2a3e6f82395"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/screenshots/video-maker/3-film-dunkel.png",
+          "sha": "a9d4ba7b53095d4693abd509495812b735173f603e04f25fc6609d09b10e8912"
+        }
+      ],
+      "history": [
+        {
+          "version": "0.1.0",
+          "date": "2026-11-14",
+          "notes": "Erste Veröffentlichung"
+        }
+      ]
     }
   ],
-  "updated": "2026-11-14T21:33:17"
+  "updated": "2026-11-14T22:04:28"
 }
