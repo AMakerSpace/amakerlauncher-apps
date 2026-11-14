@@ -143,13 +143,13 @@
     },
     {
       "id": "liquid-intro",
-      "name": "Liquid Intro",
-      "version": "1.0.10",
+      "name": "LiquidIntroMaker",
+      "version": "1.0.11",
       "exec": "liquid-intro.py",
       "subtitle": "Logo-Reveal wie bei Apple Music",
       "color": "#8fa9ff",
       "description": "Hebt dein PNG unter einer Prismaplatte aus schwingender Flüssigkeit hervor und exportiert das Intro als Video, Greenscreen oder mit Transparenz.",
-      "long_description": "Liquid Intro baut den Reveal des neuen Apple-Music-Logos nach: Dein PNG liegt unter einer Prismaplatte in Flüssigkeit. Beim Anheben reißt die Flüssigkeit ab, echte Wellen laufen nach außen und dein Logo formt sich – begleitet von einer kleinen Klangsignatur.\n\nDie Wellen werden auf der Grafikkarte nach der Wellengleichung mit Oberflächenspannung berechnet, die Farbsäume am Glas wellenlängengenau über Dispersion.",
+      "long_description": "LiquidIntroMaker baut den Reveal des neuen Apple-Music-Logos nach: Dein PNG liegt unter einer Prismaplatte in Flüssigkeit. Beim Anheben reißt die Flüssigkeit ab, echte Wellen laufen nach außen und dein Logo formt sich – begleitet von einer kleinen Klangsignatur.\n\nDie Wellen werden auf der Grafikkarte nach der Wellengleichung mit Oberflächenspannung berechnet, die Farbsäume am Glas wellenlängengenau über Dispersion.",
       "features": [
         "Eigenes PNG per Drag & Drop oder Einfügen",
         "Echte Wellensimulation mit Kapillarwellen",
@@ -190,13 +190,13 @@
         "fonts/StackSansNotch-VariableFont_wght.ttf",
         "fonts/OFL.txt"
       ],
-      "date": "2026-11-13",
-      "notes": "Automatisch veröffentlicht:\n- geändert: app.json\n- geändert: liquid-intro.py",
-      "size": 1950832,
-      "sha256": "686428330015ec8dcb959a787381d4aa2b430be4c2111ef1590610d8dfef6a3c",
-      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/liquid-intro-v1.0.10/liquid-intro-1.0.10.tar.gz",
+      "date": "2026-11-14",
+      "notes": "Automatisch veröffentlicht:\n- neu: icon/liquid-intro-dark-128.png\n- neu: icon/liquid-intro-dark-256.png\n- neu: icon/liquid-intro-dark-48.png\n- neu: icon/liquid-intro-dark-512.png\n- neu: icon/liquid-intro-dark-64.png\n- neu: icon/liquid-intro-dark.png\n- neu: icon/liquid-intro-dark.svg\n- neu: icon/liquid-intro-light-128.png\n- neu: icon/liquid-intro-light-256.png\n- neu: icon/liquid-intro-light-48.png\n- neu: icon/liquid-intro-light-512.png\n- neu: icon/liquid-intro-light-64.png\n- neu: icon/liquid-intro-light.png\n- neu: icon/liquid-intro-light.svg\n- geändert: app/index.html\n- geändert: app.json\n- geändert: icon/liquid-intro-128.png\n- geändert: icon/liquid-intro-256.png\n- geändert: icon/liquid-intro-48.png\n- geändert: icon/liquid-intro-512.png\n- geändert: icon/liquid-intro-64.png\n- geändert: icon/liquid-intro.png\n- geändert: icon/liquid-intro.svg\n- geändert: liquid-intro.py",
+      "size": 2642676,
+      "sha256": "1719bcc6b26ab12a2f0e7462ae90969e3e9e401f40ebf86e08b81a528813141a",
+      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/liquid-intro-v1.0.11/liquid-intro-1.0.11.tar.gz",
       "icon_url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/icons/liquid-intro.png",
-      "icon_sha": "a56416b750cdc2a22c91895d77b0150803b6788e6536d77d873c0a23aa45c989",
+      "icon_sha": "798dfb9a722856021ea1636247f35d13911a826fe15f40b4ef03488c6cb2a1fa",
       "screenshot_urls": [
         {
           "url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/screenshots/liquid-intro/1-reveal.png",
@@ -212,6 +212,11 @@
         }
       ],
       "history": [
+        {
+          "version": "1.0.11",
+          "date": "2026-11-14",
+          "notes": "Automatisch veröffentlicht:\n- neu: icon/liquid-intro-dark-128.png\n- neu: icon/liquid-intro-dark-256.png\n- neu: icon/liquid-intro-dark-48.png\n- neu: icon/liquid-intro-dark-512.png\n- neu: icon/liquid-intro-dark-64.png\n- neu: icon/liquid-intro-dark.png\n- neu: icon/liquid-intro-dark.svg\n- neu: icon/liquid-intro-light-128.png\n- neu: icon/liquid-intro-light-256.png\n- neu: icon/liquid-intro-light-48.png\n- neu: icon/liquid-intro-light-512.png\n- neu: icon/liquid-intro-light-64.png\n- neu: icon/liquid-intro-light.png\n- neu: icon/liquid-intro-light.svg\n- geändert: app/index.html\n- geändert: app.json\n- geändert: icon/liquid-intro-128.png\n- geändert: icon/liquid-intro-256.png\n- geändert: icon/liquid-intro-48.png\n- geändert: icon/liquid-intro-512.png\n- geändert: icon/liquid-intro-64.png\n- geändert: icon/liquid-intro.png\n- geändert: icon/liquid-intro.svg\n- geändert: liquid-intro.py"
+        },
         {
           "version": "1.0.10",
           "date": "2026-11-13",
@@ -373,5 +378,5 @@
       ]
     }
   ],
-  "updated": "2026-11-14T17:18:01"
+  "updated": "2026-11-14T17:18:10"
 }
