@@ -395,7 +395,7 @@
     {
       "id": "video-maker",
       "name": "VideoMaker",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "exec": "videomaker",
       "subtitle": "Videos schneiden – so einfach wie iMovie",
       "color": "#ff93a0",
@@ -433,17 +433,17 @@
         "fonts/StackSansNotch-VariableFont_wght.ttf",
         "fonts/OFL.txt"
       ],
-      "date": "2026-11-14",
-      "notes": "Automatisch veröffentlicht:\n- geändert: app.json\n- geändert: screenshots/1-film-hell.png\n- geändert: screenshots/3-film-dunkel.png",
-      "size": 26575455,
-      "sha256": "307496fc615076eaad63dbf57b26e428f5403052dcb28909019f85ab1306c82a",
-      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/video-maker-v0.1.1/video-maker-0.1.1.tar.gz",
+      "date": "2026-11-15",
+      "notes": "Automatisch veröffentlicht:\n- geändert: QUELLCODE.md\n- geändert: app.json\n- geändert: bin/kdenlive\n- geändert: lib/x86_64-linux-gnu/qml/org/kde/kdenlive/Clip.qml\n- geändert: lib/x86_64-linux-gnu/qml/org/kde/kdenlive/Ruler.qml\n- geändert: lib/x86_64-linux-gnu/qml/org/kde/kdenlive/Timeline.qml\n- geändert: screenshots/1-film-hell.png\n- geändert: screenshots/3-film-dunkel.png\n- geändert: videomaker",
+      "size": 26681015,
+      "sha256": "a27fb9ade7db17ada3da6217b6224ee507e947d11d213a2548245bd6186458e4",
+      "url": "https://github.com/AMakerSpace/amakerlauncher-apps/releases/download/video-maker-v0.1.2/video-maker-0.1.2.tar.gz",
       "icon_url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/icons/video-maker.png",
       "icon_sha": "ec9dd66c3b149b766df7ba1775008ad971966d53718d8a9287b89a2fce6850fe",
       "screenshot_urls": [
         {
           "url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/screenshots/video-maker/1-film-hell.png",
-          "sha": "df52cc06b58868b75fe936df7d29642938f68fb1e3d8304a736404a0fe24898d"
+          "sha": "b218dd833f8760567ce02f63e366871d4cdbf6d265af8d44942a984e5100bd59"
         },
         {
           "url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/screenshots/video-maker/2-regler.png",
@@ -451,10 +451,15 @@
         },
         {
           "url": "https://raw.githubusercontent.com/AMakerSpace/amakerlauncher-apps/main/screenshots/video-maker/3-film-dunkel.png",
-          "sha": "71b381a3d46ae9ed9ed9be687497f1ef7e1386a32362d92bbef80bddf24989bc"
+          "sha": "0037b7ae9f2c80d3cd9102f0c6bf3cd01cfd5f7e1cf55fe57dbc7fd666cf8ace"
         }
       ],
       "history": [
+        {
+          "version": "0.1.2",
+          "date": "2026-11-15",
+          "notes": "Automatisch veröffentlicht:\n- geändert: QUELLCODE.md\n- geändert: app.json\n- geändert: bin/kdenlive\n- geändert: lib/x86_64-linux-gnu/qml/org/kde/kdenlive/Clip.qml\n- geändert: lib/x86_64-linux-gnu/qml/org/kde/kdenlive/Ruler.qml\n- geändert: lib/x86_64-linux-gnu/qml/org/kde/kdenlive/Timeline.qml\n- geändert: screenshots/1-film-hell.png\n- geändert: screenshots/3-film-dunkel.png\n- geändert: videomaker"
+        },
         {
           "version": "0.1.1",
           "date": "2026-11-14",
@@ -468,5 +473,5 @@
       ]
     }
   ],
-  "updated": "2026-11-14T22:06:53"
+  "updated": "2026-11-15T11:28:39"
 }
